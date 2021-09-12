@@ -1,0 +1,6 @@
+{
+    "name": "Books Flask API",
+    "description": "A simple flask API",
+    "repository": "https://github.com/TheCez/books_info_api",
+    "keywords": ["flask", "python", "API"]
+  }
